@@ -1,7 +1,8 @@
 # Miguel A. Cano
+
 **Senior Frontend Engineer** · React · TypeScript · Next.js · Micro-Frontends
 
-I build production-grade frontend systems with a focus on architecture, component quality, and UX that earns trust. I came to engineering through a decade in digital strategy — which means I think about users, not just components.
+I build production-grade frontend systems with a focus on architecture, component quality, and UX that earns trust. I came to engineering through a decade in digital strategy, which means I think about users, not just components.
 
 ---
 
@@ -19,12 +20,14 @@ I build production-grade frontend systems with a focus on architecture, componen
 ## Active Projects
 
 ### Cantura
-A studio management platform for private music teachers. Built around instrument-scoped access control, repertoire assignment and progress tracking, and a guardian-participatory notes system inspired by Suzuki pedagogy. Production-shaped architecture from the start — service layer authorization, strict invariants, and a data model designed around user flows.
+
+A studio management platform for private music teachers. Built around instrument-scoped access control, repertoire assignment and progress tracking, and a guardian-participatory notes system inspired by Suzuki pedagogy. Production-shaped architecture from the start: service layer authorization, strict invariants, and a data model designed around user flows.
 
 **Stack:** Next.js · TypeScript · Prisma · PostgreSQL · Tailwind CSS
 
 ### Appogia
-A music practice intelligence platform for structured practice tracking, audio session capture, and feedback loops between teachers and students. Currently in the architectural phase — defining service boundaries, event logging patterns, and idempotent async processing in preparation for audio storage and AI-assisted performance analysis.
+
+A music practice intelligence platform for structured practice tracking, audio session capture, and feedback loops between teachers and students. Currently in the architectural phase, defining service boundaries, event logging patterns, and idempotent async processing in preparation for audio storage and AI-assisted performance analysis.
 
 **Stack:** Next.js · TypeScript · PostgreSQL · S3-compatible storage · pnpm monorepo
 
